@@ -11,11 +11,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - href: La Villetta Comunale di Siderno.qmd
-        text: La Villetta
+        text: "La Villetta"
       - href: L'Osservatorio del Verde Pubblico.qmd
-        text: L'Osservatorio
+        text: "L'Osservatorio"
+      - about.qmd
 format:
   html:
     theme: cosmo
