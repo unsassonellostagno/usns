@@ -20,7 +20,7 @@ format:
     toc: true
 
 website:
-  site-url: https://unsassonellostagno.github.io/usns/
+  site-url: "https://unsassonellostagno.github.io/usns/"
 
 resources:
   - /assets
