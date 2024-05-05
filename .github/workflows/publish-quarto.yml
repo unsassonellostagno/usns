@@ -1,8 +1,8 @@
 name: Render and Publish
 on:
   push:
-    branches:
-      - main
+    branches: main  # changes pushed to this branch will trigger a build.
+
       jobs:
         build-deploy:
           runs-on: ubuntu-latest
