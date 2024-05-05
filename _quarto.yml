@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+execute:
+  freeze: auto
+
+website:
+  title: "un Sasso nello Stagno"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+resources:
+  - /assets
+
