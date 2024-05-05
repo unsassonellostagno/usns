@@ -19,8 +19,6 @@ format:
     css: styles.css
     toc: true
 
-website:
-  site-url: "https://unsassonellostagno.github.io/usns/"
 
 resources:
   - /assets
