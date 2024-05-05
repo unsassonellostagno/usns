@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+
 execute:
   freeze: auto
 
@@ -17,6 +18,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+
+website:
+  site-url: https://unsassonellostagno.github.io/usns/
 
 resources:
   - /assets
