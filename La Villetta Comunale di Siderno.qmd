@@ -84,10 +84,10 @@ Tra l’altro questa sistemazione di una pavimentazione rialzata andrebbe a ridu
 
 Alla luce di quanto appena trattato e dall’osservazione della raccolta di fotografie satellitare che ritraccia sommariamente l’evoluzione della canopea della Villa Comunale dal 2010 ad oggi, si osserva una netta diminuzione della stessa, che sia per inasprimento del clima o per manutenzioni inadeguata, o del tutto assente, come più volte specificato da diverse parti, la situazione è purtroppo questa. Ora la domanda è: la riqualificazione proposta rimedia o rinforza questa tendenza?
 
-**Per quanto riguarda l’aspetto botanico**, la rimozione di alberature circostante porterebbe come altro effetto negativo la forte probabilità che i ficus andassero ad occupare lo spazio “vitale” adesso liberato, estendendo ancora di più i loro rami verso mare o il sole. La chioma mostra già una dissimetria accentuata verso sud. Un estensione maggiore in quella direzione potrebbe esercitare sul tronco per effetto leva sforzi che potrebbero deteriorarlo.  Oltretutto l’allargamento della chioma ricoprirebbe maggiormente l’area che il progetto riserva all'area dedicata alla piazza centrale quando l’altezza disponibile sotto i rami ne limitava già la fruizione prima dei lavori. 
+**Per quanto riguarda l’aspetto botanico**, la rimozione di alberature circostante porterebbe come altro effetto negativo la forte probabilità che i ficus andassero ad occupare lo spazio “vitale” adesso liberato, estendendo ancora di più i loro rami verso mare o il sole. La chioma mostra già una dissimetria accentuata verso sud. Un estensione maggiore in quella direzione potrebbe esercitare sul tronco, per effetto leva, sforzi tali da deteriorarlo.  Oltretutto l’allargamento della chioma ricoprirebbe maggiormente l’area che il progetto prevede di riservare alla *scena* centrale quando l’altezza disponibile sotto i rami ne limita già la fruizione prima dei lavori. 
 Bisogna tenere conto che quei alberi sono dei ficus tipo magnolioide, alberi sempreverde tra quelli più grandi tra i alberi di fico coltivati, crescono da 22 a 55 metri in altezza e da 21 a 40 metri in larghezza, a ragione di 90 cm in media l’anno, fino ad una venerabile età di 150 anni.
 
-A parere del comitato, per tutti i motivi sopracitati in un ambito di restauro del verde pubblico, così come viene classificato l’intervento nella scheda riassuntiva della proposta finanziata, le alberature avrebbero dovute essere rispristinate. Se erano emerse, a suo tempo, delle valide motivazioni a rimuoverle, era indispensabile oggi individuarne la sussitenza di dette cause, e possibilmente rimediandone oggi le origini per preservare la salute avvenire della Villa. Immaginiamo che il taglio fosse stato reso necessario a causa di patologie o altri impedimenti, queste informazioni costituivano già una base di studio di notevole importanza per assestare o trattare l’ambiente perché potesse finalmente offrire delle condizioni di sviluppo migliori alle parte superstite. 
+**A parere del comitato**, per tutti i motivi sopracitati in un ambito **di restauro del verde pubblico**, così come viene classificato l’intervento nella scheda riassuntiva della proposta finanziata, **le alberature avrebbero dovute essere rispristinate**. Se erano emerse, a suo tempo, delle valide motivazioni per rimuoverle, era indispensabile oggi individuarne la sussitenza di dette cause, e possibilmente rimediandone oggi le origini per preservare la salute avvenire della Villa. Immaginiamo che il taglio fosse stato reso necessario a causa di patologie o altri impedimenti, queste informazioni costituivano già una base di studio di notevole importanza per assestare o trattare l’ambiente perché potesse finalmente offrire delle condizioni di sviluppo migliori alle parte superstite. 
 
 Per tutti questi motivi, il comitato valuta molto negativamente la pavimentazione nei pressi degli alberi monumentali e suggerisce fortemente che non venga eseguita lasciando libera la superficie corrispondente all’estensione delle chiome soprastante.
 
@@ -135,7 +135,15 @@ Nel caso fossero state accettate delle proposte di variante, era necessario indi
 
 <table><tbody><tr><th><ul><li>opere paesaggistiche (€ 61.000)</li><li>arredi (€ 52.000)</li></ul></th><th><ul><li>pavimentazione (€ 325.669)</li><li>parcheggio (€ 295.791)</li><li>tribune (€ 221.225)</li><li>illuminazione (€ 236.792)</li></ul></th></tr></tbody></table>
 
-dal quale emerge accessoriamente che circa solo il 10% delle somme erogate sono dedicate alle opere paesaggistiche (€ 61.000) e arredi (€ 52.000) mentre il restante 90 % alle opere “artificiali”, una disparità considerevole confermata dalle percentuali documentate nel contratto d’appalto a p.3.
+Il grafico illustra di maniera più immediata la ripartizione dei costi:
+
+![](/assets/chart/costi.png)
+
+Invece dalla documentazione riguardo il contratto di appalto è riportato a p.3 la percentuale approssimativa dei lavori per categoria, una disparità considerevole confermata dalle percentuali documentate:
+
+![](/assets/chart/percentuali.jpg)
+
+dal quale emerge accessoriamente che circa solo il 9% delle somme erogate sono dedicate alle opere paesaggistiche (€ 61.000) e arredi (€ 52.000) mentre il restante 91 % alle opere “artificiali”, 
 
 Se chiedere un percentuale maggiore per le spese dedicate al verde sarebbe anche legittimo, rimane pur sempre più realistico richiedere quantomeno che lo sviluppo della parte minerale non pregiudichi minimamente su quella parte vegetativa.
 
@@ -143,17 +151,23 @@ Comunque nel caso in cui accogliate le nostre richieste valutandone i benefici s
 
 ### **LE TRIBUNE**
 
-Per quanto riguarda la Tribuna Nord, si pensa che le dimensioni potevano essere più contenute, con un raggio minore, un’apertura più stretta e una gradinata in meno, grazie ai dislivelli si poteva integrare meglio. Le alternative a farle piene ed in cemento armato erano numerose, vero che ci è stato specificato che il cemento adoperato è “green” – dimezza l’emissione di diossido di carbonio – ma in un contesto naturalistico, materiali sostitutivi di minore impatto ecologico e di più semplice rimozione a fine ciclo sono tanti, a cominciare
+Per quanto riguarda la Tribuna Nord, si pensa che le dimensioni potevano essere più contenute, con un raggio minore, un’apertura più ristretta e una gradinata in meno, grazie ai dislivelli che presentava il sito, un integrazione maggiore poteva essere raggiunta. Le alternative a realizzarle piene e monolitiche col cemento armato erano numerose! Vero che ci è stato specificato che il cemento gettato è “green” – tale da dimezzare l’emissione di diossido di carbonio – ma in un contesto naturalistico, materiali sostitutivi di minore impatto ecologico e di più semplice rimozione a fine ciclo sono decisamente tanti, a cominciare dalle semplici gabbionate, per altro già adoperate per il ripristino del lungomare anni addietro, con qualche sapiente accorgimento possono acquistare eleganza quanto basta per discostarsi dalla semantica delle opere di contenimento stradali, cosa che stenta a compiere la scarna tribuna in cemento.
+In piu, nella relazione tecnica si è insistito così tanto sull'idea di unificare gli spazi, il mare e la montagna, prevedendo persino di eliminare il dislivello della carreggiata. Poi da un tratto per quasi la totalità della lunghezza della zona d'intervento si erigono queste tribune per un altezza media di 2.00 m. Come possono persone di altezza media normale (1.80 m) percepire gli spazi dall'altra parte. Per questo scopo l'antica ringhiera in ferro battuto montata sul muretto non più alto del ginocchio aveva maggiore pertinenza. 
 
-### L’IMPIANTO DI ILLUMINAZIONE**
 
-Sicuramente l’impianto d’illuminazione verifica tutti i parametri per la comodità e la sicurezza dei futuri utenti, le schede sul funzionamento delle apparecchiature è dettagliatissima, mancano per le valutazioni riguardo gli effetti sul fotoperiodo delle piante e sui ritmi circadiani dalla fauna e dei cittadini (i LED possono emettere “luce blu”).
+### **L’IMPIANTO DI ILLUMINAZIONE**
 
-È da valutare l’utilità effettiva delle due torri di luce previste in origine per illuminare dall’alto la scena centrale dell’anfiteatro essendo coperta dalla chioma degli alberi monumentali centrale che ostacolerebbero la luce.
+Sicuramente l’impianto d’illuminazione verifica tutti i parametri per la comodità e la sicurezza dei futuri utenti, le schede sul funzionamento delle apparecchiature è dettagliatissima, mancano però le valutazioni riguardo gli effetti e le alterazioni del fotoperiodo che influenza notevolmente lo svillupo delle piante, i ritmi circadiani dalla fauna e dei cittadini.
+
+È da valutare l’utilità effettiva delle due torri di luce previste in origine per illuminare dall’alto la scena centrale dell’anfiteatro essendo in gran parte coperta dalle chiome degli alberi monumentali centrali che ostacolerebbero la luce proiettata.
 
 ### **L’IMPIANTO D’IRRIGAZIONE**
 
-Sono stati suggeriti l’uso di un sistema d’irrigazione a gocce e un sistema di nebulizzazione, delle fontane funzionante, per quanto riguarda la gestione del recupero delle acque sono già state espressi i dubbi.
+Sono stati suggeriti 
+- l’uso di un sistema d’irrigazione a gocce,
+- un sistema di nebulizzazione, 
+- delle fontane funzionante, 
+per quanto riguarda la gestione del recupero delle acque sono già stati precedentemente espressi i dubbi sulla capacità dell'impianto progettato con le caratteristiche descritte nella relazione specialistica ad assolvere il suo compito nel modo più efficace.
 
 ### **L’IMPIANTO DI DIFFUSIONE ACUSTICA**
 
@@ -177,14 +191,14 @@ Il comitato “sasso nello stagno” ha poi rimarcato che:
 
 
 
-# RISSORSE ESTERNE
+# **RISSORSE ESTERNE**
 
 - La documentazione ufficiale del progetto può essere scarricata dal seguente [link](https://siderno-api.municipiumapp.it/s3/6888/allegati/progetto-villa-per-albo-trasparenza.zip)
+- [LEGGE 14 gennaio 2013 , n. 10](https://www.mase.gov.it/sites/default/files/archivio/normativa/legge_14_01_2013_10.pdf) Norme per lo sviluppo degli spazi verdi urbani
+- [Linee guida](https://www.mase.gov.it/sites/default/files/archivio/allegati/comitato%20verde%20pubblico/lineeguida_finale_25_maggio_17.pdf)  per la **gestione del verde urbano**
+e prime indicazioni per una **pianificazione sostenibile**
+- [Linee guida e norme tecniche](https://www.apgi.it/wp-content/uploads/2022/01/SCARICA-LE-LINEE-GUIDA-E-NORME-TECNICHE-PER-IL-RESTAURO-DEI-GIARDINI-STORICI.pdf)  per il **Restauro dei Giardini Storici**
+- [legge regionale del 07 febbraio 2024](https://www.consiglioregionale.calabria.it/bdf/api/BDF?numero=7&anno=2024) riguardo le Norme in materia di **valorizzazione delle aree verdi** e delle formazioni vegetali in
+ambito urbano.
 - 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+
