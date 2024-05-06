@@ -8,15 +8,15 @@ seminario: [**Giardini Storici: la tutela dopo il PNRR**](https://youtu.be/ReOIt
 
 Appunti sull’intervento del chimico e biologo Dr. Giovanni Damiani.
 
-Il giardino rappresenta un'opera d'arte estremamente dinamica. A differenza di un dipinto, è costituito da materia viva in continua evoluzione, soggetta alla nascita, crescita e declino delle piante. Inoltre, è fortemente influenzato dai fattori abiotici, i quali possono mutare drasticamente nel corso della giornata, influenzando ogni strato vegetale (arboreo, arbustivo ed erbaceo) in modo separato. Avviare un processo di restauro o riqualificazione del giardino può essere interpretato come un'ammissione di fallimento, poiché indica che la situazione del giardino è critica e che le precedenti operazioni di manutenzione o prevenzione non hanno sortito gli effetti desiderati.
+Il giardino rappresenta un'opera d'arte estremamente dinamica. A differenza di un dipinto, è costituito da materia viva in continua evoluzione, soggetta alla nascita, crescita e declino delle piante. Inoltre, è fortemente influenzato dai fattori abiotici, i quali possono mutare drasticamente nel corso della giornata, influenzando ogni strato vegetale (arboreo, arbustivo ed erbaceo) in modo separato. Avviare un processo di restauro o riqualificazione del giardino può essere interpretato come **un'ammissione di fallimento**, poiché indica che la situazione del giardino è critica e che le precedenti operazioni di manutenzione o prevenzione non hanno sortito gli effetti desiderati.
 
-Il processo di restauro del giardino è un compito altamente specializzato che richiede la collaborazione di diverse figure professionali, tra cui l'architetto paesaggista per la supervisione dei lavori, il botanico, il biologo, l'agronomo, l'agronomo forestale, il geologo e, in alcuni casi, anche un chimico per comprendere appieno le sfaccettature del problema.
+Il processo di **restauro del giardino** è un compito **altamente specializzato** che richiede la collaborazione di diverse figure professionali, tra cui l'architetto paesaggista per la supervisione dei lavori, il botanico, il biologo, l'agronomo, l'agronomo forestale, il geologo e, in alcuni casi, anche un chimico per comprendere appieno le sfaccettature del problema.
 
 Naturalmente, l'impiego di un tale insieme di esperti può comportare costi proibitivi se affrontati individualmente per ciascuna necessità. Tuttavia, diventa più gestibile se organizzato sotto forma di un gruppo multidisciplinare, come ad esempio un comitato scientifico, specialmente se l'obiettivo è mantenere la tradizione italiana di un'accurata conservazione storica, minimizzando le alterazioni e garantendo che gli interventi integrativi siano facilmente identificabili e reversibili. Questo può essere particolarmente difficile, se non impossibile, nel caso della componente vegetale, mentre risulta più praticabile per le componenti lapidee e infrastrutturali.
 
 Si individuano 5 problemi o aspetti ecologici da affrontare:
 
-Il **PRIMO**, il Cambiamento Climatico:
+## Il **PRIMO**, il Cambiamento Climatico:
 
 - lunghi periodi di siccità
 - piogge particolarmente intense sempre più frequenti
@@ -27,7 +27,7 @@ Il **PRIMO**, il Cambiamento Climatico:
 
 Il monitoraggio del clima locale diventa uno strumento indispensabile par adottare provvedimenti rapidi, una centralina meteorologica dove si misura la pluviometria, la direzione ed intensità del vento, la radiazione solare che varia drasticamente rappresenta un investimento contenuto e affidabile grazie alla possibilità di registrare digitalmente i dati raccolti.
 
-Il **SECONDO** aspetto, la qualità del suolo:
+## Il **SECONDO** aspetto, la qualità del suolo:
 
 Per capire, un ettaro di suolo vivo di suolo non inquinato di suolo non asfaltato non compattato mediamente contiene:
 
@@ -38,18 +38,22 @@ Per capire, un ettaro di suolo vivo di suolo non inquinato di suolo non asfaltat
 
 Intervenire sul suolo anziché sull'elemento vegetale risulta sempre preferibile e più efficace. Prima di tutto, è fondamentale evitare la compattazione del terreno, poiché può causare danni difficilmente calcolabili. Inoltre, è importante favorire al massimo la comunicazione tra gli alberi, gli arbusti e le altre piante presenti. Il suolo funge da elemento di connessione attraverso le ife fungine, costituendo ciò che oggi viene chiamato "Wood Wide Web". Grazie a segnali chimici o microelettrici, se una pianta subisce un attacco parassitario, avverte le altre, che a loro volta possono produrre sostanze come il limonene o altri insetticidi per autodifendersi, senza necessità dell'intervento umano.
 
-Il **TERZO** aspetto, Convien raccogliere e conservare l'acqua piovana per l'irrigazione. È preferibile immagazzinarla in cisterne o serbatoi rivestiti con Opus signinum, una miscela di calce e cocciopesto utilizzata dai Romani, poiché l'acqua reagisce con questa superficie intonacata acquisendo un pH fisiologico, ideale per la vita intorno a 7,35-7,32, simile al pH del nostro sangue e favorevole alla crescita delle piante. Utilizzare acqua con una certa salinità, anche se leggera, nel tempo può sterilizzare il suolo.
+## Il **TERZO** aspetto, La gestione dell'acqua piovana
 
-Il **QUARTO** aspetto è la gestione dei rifiuti organici degli sfalci e potature necessita dell’inserimento di un bio trituratore per fare il compostaggio aerobico, altrimenti se questi rifiuti organici sono smaltiti a traverso l’ordinario ciclo dei rifiuti urbani impoveriamo il sito dai propri nutrienti e del proprio carbonio.
+Conviene raccogliere e conservare l'acqua piovana per l'irrigazione. È preferibile immagazzinarla in cisterne o serbatoi rivestiti con Opus signinum, una miscela di calce e cocciopesto utilizzata dai Romani, poiché l'acqua reagisce con questa superficie intonacata acquisendo un pH fisiologico, ideale per la vita intorno a 7,35-7,32, simile al pH del nostro sangue e favorevole alla crescita delle piante. Utilizzare acqua con una certa salinità, anche se leggera, nel tempo può sterilizzare il suolo.
 
-Il **QUINTO** aspetto, l’analisi e monitoraggio dell’ambiente
+## Il **QUARTO** aspetto è la gestione dei rifiuti organici
+
+ la gestione dei rifiuti organici degli sfalci e potature necessita dell’inserimento di un bio trituratore per fare il compostaggio aerobico, altrimenti se questi rifiuti organici sono smaltiti a traverso l’ordinario ciclo dei rifiuti urbani impoveriamo il sito dai propri nutrienti e del proprio carbonio.
+
+## Il **QUINTO** aspetto, l’analisi e monitoraggio dell’ambiente
 
 Per un intervento di restauro o di manutenzione di successo servono avere a disposizioni dati scientifici concreti, si possono ottenere eventualmente con analisi impegnative pero sono sufficienti analisi ecotossicologia oppure analisi di indici biotici molto più economici ed adeguati molti dei quali sono indicati nelle LINEE GUIDA E NORME TECNICHE PER IL RESTAURO DEI GIARDINI STORICI curato dall’ APGI - ASSOCIAZIONE PARCHI E GIARDINI D’ITALIA per il Ministero della Cultura, se queste analisi stabiliscono che il suolo è in buona salute inutile andare a sperare risorse per individuare problemi che non esistono, se invece danno risultati preoccupanti allora si dovrà procedere ad ulteriore accertamenti.
 
 - Per monitoraggio del suolo col testo QBS-ar (analisi dei microartropodi edafici viventi nei primi centimetri di profondità del suolo) attraverso la quale è possibile stabilire il livello di salubrità del suolo in base alla quantità e diversità degli organismi edafici fondamentali per la decomposizione della materia organica, che le attività antropiche invasive tendono a ridurre sensibilmente, riducendo pertanto la qualità del suolo.
 - Anche l’aria si può monitorare grazie alla presenza dei I licheni epifiti che sono tra i principali indicatori dell'inquinamento atmosferico, sono molto più sensibili dei nostri apparecchi di misurazione, sono la garanzia di aria pulita, a tal punto che definiscono un indicatore, l’indice di biodiversità lichenica, un aspetto che viene valutato spesso nella compravendita immobiliare in paesi come l’Inghilterra per verificare la qualità dell’aria circostante della nuova abitazione.
 
-Un ultimo aspetto complementare: I Viviai
+## Un ultimo aspetto complementare: I Viviai
 
 Nell'ambito delle integrazioni ambientali, è consigliabile utilizzare piante autoctone anziché esotiche. Le specie locali, con genotipi adattati all'ambiente circostante, sono preferibili per la propagazione tramite seme, talea o margotta, poiché presentano il genotipo più adatto al contesto. Questo approccio favorisce un restauro ambientale più efficace e duraturo. Al contrario, l'uso di piante esotiche provenienti da climi diversi può portare a sofferenza e insuccesso, soprattutto se le condizioni ambientali non sono adatte.
 

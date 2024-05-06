@@ -47,7 +47,7 @@ Rimane allora, per finanziare l’intervento, la seconda opzione; il programma r
 
 "LA RIGENERAZIONE DEGLI SPAZI URBANI PUBBLICI RICADENTI ALL’INTERNO DEL CENTRO ABITATO DI SIDERNO MARINA \*VIA DIVERSE\* RIQUALIFICAZIONE AREE VERDI." Per un importo complessivo di € 1.3 mln (CUP: I15F21000410001 – CIG: 9915740780).
 
-La scheda descrittiva assegnata alla proposta di progetto disponibile<sup>[\[1\]](#footnote-1)</sup> sul sito “opencup.gov.it” classifica però tutt’oggi il progetto nella tipologia RESTAURO e nella categoria "VERDE PUBBLICO".
+La scheda descrittiva assegnata alla proposta di progetto disponibile sul sito “[opencup.gov.it](https://www.opencup.gov.it/portale/it/web/opencup/home/progetto/-/cup/I15F21000410001)” classifica però tutt’oggi il progetto nella tipologia RESTAURO e nella categoria "VERDE PUBBLICO".
 
 Se la qualifica di "restauro" abbia una connotazione vincolante e se la categoria "verde pubblico" determina un indirizzo preponderante de perseguire, pare che rimanga sempre l’onere alla stazione appalatante di conservarne le caratteristiche che contradistinguono la natura stessa della Villa Comunale. 
 In questo caso saggia sarebbe l'osservanza delle prescrizioni contenute nelle **LINEE GUIDA E NORME TECNICHE PER IL RESTAURO DEI GIARDINI STORICI** curato dall’ APGI - ASSOCIAZIONE PARCHI E GIARDINI D’ITALIA per il Ministero della Cultura. Sono state redatte appositamente per trattare tutti i tipi di parchi e giardini storici, dai più piccoli ai più principeschi, che rientrano nei finanziamenti del primo gruppo, esse contengono preziosi suggerimenti che possono definitavemente applicarsi alla gestione della nostra Villa Comunale, compresi i dettagli di tutte le fasi d’intervento sul verde, e gli eccellenti metodi di diagnostica preliminare indispensabili per un esito di successo.
@@ -70,7 +70,7 @@ mentre **l’art.7 estende l’applicazione delle prescrizioni non solo all’al
 - **i filari o alberate di particolare pregio paesaggistico**, monumentale, storico e culturale, ivi compresi quelli inseriti nei centri urbani
 - **gli alberi ad alto fusto inseriti in particolari complessi architettonici** di importanza storica e culturale, quali ad esempio **ville**, monasteri, chiese, **orti botanici** e **residenze storiche private.**
 
-Eventualmente se si desidera approfondire la tematica, questa [pagina](damiani.qmd) riassume l'intervento curato del Dott. Giovani Damiani, chimico e biologo, all’occasione del seminario “_Giardini Storici: la tutela dopo il PNRR_” (All.to n°01). Il dott. Damiani ha anche contribuito alla stesura delle “Linee guida e norme tecniche per il restauro dei giardini storici” già ampiamente citato. Le informazioni condivise dalla sua esperienza attrezzeranno adeguatamente il lettore per capire molte delle problematiche di fondo ch si affronterano.
+Eventualmente se si desidera approfondire la tematica, questa [pagina](damiani.qmd) riassume l'intervento curato del Dott. Giovani Damiani, chimico e biologo, all’occasione del seminario “ Giardini Storici: la tutela dopo il PNRR ”. Il dott. Damiani ha anche contribuito alla stesura delle “Linee guida e norme tecniche per il restauro dei giardini storici” già ampiamente citato. Le informazioni condivise dalla sua esperienza attrezzeranno adeguatamente il lettore per capire molte delle problematiche di fondo ch si affronterano.
 
 Ad esempio, la pertinenza dell'intervento è stato valutato in funzione del rapporto delle superfici vegetali individuate a terra e di quelle "artificializzate". Secondo le informazioni  da soli questi parametri sono insufficienti a valutarne l'impatto ed il contributo ecologico su un ecosistema complesso. Sono da considerare per il suolo anche il suo intero spessore e le sue qualità agronomiche così come anche il volume, l'estenzione e la densità complessiva della canopea.
 
@@ -175,4 +175,16 @@ Il comitato “sasso nello stagno” ha poi rimarcato che:
 - il cemento più ecologico è quello che non si usa e che c’erano sicuramente soluzioni costruttive che potevano ridurne considerevolmente l’impiego assecondando maggiormente gli obbiettivi fissati dai Criteri Ambientali Minimi (C.A.M.).
 - Seppure la pavimentazione drenante può presentare delle permeabilità migliore dei terreni naturali, non possiede sicuramente lo stesso potenziale biologico e costituisce invariabilmente uno strato di isolamento riguardo alcuni processi di scambio (ossigeno, nutrienti, concimi, etc… ) tra habitat contigui soprattutto in prossimità degli apparati radicali appartenenti ai ficus centrali
 
-1. all'indirizzo: <https://www.opencup.gov.it/portale/it/web/opencup/home/progetto/-/cup/I15F21000410001> [↑](#footnote-ref-1)
+
+
+# RISSORSE ESTERNE
+
+- La documentazione ufficiale del progetto può essere scarricata dal seguente [link](https://siderno-api.municipiumapp.it/s3/6888/allegati/progetto-villa-per-albo-trasparenza.zip)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
