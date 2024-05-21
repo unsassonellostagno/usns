@@ -17,6 +17,28 @@ website:
         text: "L'Osservatorio"
       - href: about.qmd
         text: About
+
+  sidebar:
+    style: "docked"
+    contents:
+      - section: "La Villa Comunale"
+        contents:
+        - href: La Villetta Comunale di Siderno.qmd
+        - href: gloci.qmd
+        - href: areeverdi.qmd
+        - href: analisi_costi.qmd
+      - section: "Approfondimenti"
+        contents:
+        - href: damiani.qmd
+      - section: "Attività"
+        contents:
+        - href: incontri.qmd
+      - section: "Rassegna Stampa"
+        contents:
+        - href: rastamp.qmd
+      - section: "Risorse Esterne"
+        contents:
+        - href: risest.qmd        
 format:
   html:
     theme: cosmo
