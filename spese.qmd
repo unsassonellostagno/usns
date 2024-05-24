@@ -1,0 +1,24 @@
+---
+title: "Le Spese"
+
+---
+
+## **ANALISI DEI COSTI**
+
+Nel caso fossero state accettate delle proposte di variante, era necessario individuarne il costo con l'analisi del computo metrico stesso allegato al progetto. Sono state esaminate rapidamente le voci che lo compongono così come quelle dell’elenco prezzi o dell’analisi dei prezzi e del prezzario regionale della regione Calabria 2023, le spese si ripartiscono mediamente così:
+
+<table><tbody><tr><th><ul><li>opere paesaggistiche (€ 61.000)</li><li>arredi (€ 52.000)</li></ul></th><th><ul><li>pavimentazione (€ 325.669)</li><li>parcheggio (€ 295.791)</li><li>tribune (€ 221.225)</li><li>illuminazione (€ 236.792)</li></ul></th></tr></tbody></table>
+
+Il grafico illustra di maniera più immediata la ripartizione dei costi:
+
+![](/assets/chart/costi.png)
+
+Invece dalla documentazione riguardo il contratto di appalto è riportato a p.3 la percentuale approssimativa dei lavori per categoria, una disparità considerevole confermata dalle percentuali documentate:
+
+![](/assets/chart/percentuali.jpg)
+
+dal quale emerge accessoriamente che circa solo il 9% delle somme erogate sono dedicate alle opere paesaggistiche (€ 61.000) e arredi (€ 52.000) mentre il restante 91 % alle opere “artificiali”, 
+
+Se chiedere un percentuale maggiore per le spese dedicate al verde sarebbe anche legittimo, rimane pur sempre più realistico richiedere quantomeno che lo sviluppo della parte minerale non pregiudichi minimamente su quella parte vegetativa.
+
+Comunque nel caso in cui accogliate le nostre richieste valutandone i benefici sul lungo termine, accessoriamente per recuperare margini di manovra è stato reperito [un esubero di spese di circa €144.000,00](analisi_costi.qmd) in sole tre voci, è nel caso non fossero sufficienti, sono stati identificati, prima che fossero gettate le tribune, altre proposte di varianti che potessero allo stesso tempo diminuire alcune voci di spese migliorando anche l’impronta ecologica complessiva del progetto, di seguito una **raccolta veloce di suggerimenti emessi durante i vari incontri del comitato**:
