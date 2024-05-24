@@ -11,7 +11,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: La Villetta Comunale di Siderno.qmd
+      - href: La Villa Comunale di Siderno.qmd
         text: "La Villetta"
       - href: Osservatorio del Verde Pubblico.qmd
         text: "L'Osservatorio"
@@ -23,10 +23,17 @@ website:
     contents:
       - section: "La Villa Comunale"
         contents:
-        - href: La Villetta Comunale di Siderno.qmd
+        - href: La Villa Comunale di Siderno.qmd
+        - href: pnrr.qmd
+        - href: pnrrbenicp.qmd
+        - href: pnrr_verde.qmd
         - href: gloci.qmd
         - href: areeverdi.qmd
+        - href: pertinenza.qmd
+        - href: varianti.qmd
+        - href: spese.qmd
         - href: analisi_costi.qmd
+
       - section: "Approfondimenti"
         contents:
         - href: damiani.qmd
