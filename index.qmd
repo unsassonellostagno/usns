@@ -41,6 +41,8 @@ Ricerca e innovazione: Collaborare con esperti e istituzioni accademiche per svi
 
 [comment]: # (Still another comment)
 
+[comment]: # Since the trick uses reference link, it will possibly raise some warnings, especially for duplication if several in the documents, i.e., [WARNING] Duplicate link reference '[]'.
+
 <!-- 
 ![logo](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 -->
