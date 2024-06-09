@@ -16,9 +16,9 @@ La mole di informazioni recuperate si è addensata col passare del tempo, perci�
 
 I primi tre punti concernano la descrizione del quadro normativo, tra l'altro richiamato nella relazione tecnica stessa allegata al progetto.
 
-- Il Piano Nazionale Di Ripresa e Resilienza.
-- PNRR e la Tutela dei Beni Culturali e del Paesaggio
-- La Tutela Del Verde Urbano nell'ambito dell PNRR
+- [Il Piano Nazionale Di Ripresa e Resilienza](pnrr.qmd).
+- [PNRR e la Tutela dei Beni Culturali e del Paesaggio](pnrrbenicp.qmd)
+- [La Tutela Del Verde Urbano nell'ambito dell PNRR](pnrr_verde.qmd)
 
 
 Le due sezioni seguente operano una forma di diagnostica storica dei luoghi condotta con la raccolta e l'analisi d'immagini recuperate da fonti sparse, alcun facilmente identificabili, per cercare di ritracciare l'evoluzione storica del luogo e vedere se può contribuire anche in parte a delineare validi indirizzi.
@@ -26,15 +26,15 @@ Le due sezioni seguente operano una forma di diagnostica storica dei luoghi cond
 - La villa Comunale: Genius Loci
 - Un paese al verde ?
 
-La quinta sezione, la pertinenza del progetto, è la chiave di volta della contestazione, esaminano i motivi principali che normalmente invaliderebbero qualsiasi dichiarazione di aver rispettato le prescrizioni contenute nel quadro normativi precedentemente dettagliato, in primis, la motivazione per la quale il comitato si è inizialmente formato, la diminuzione della consistenza vegetale, inizialmente come lieve sospetto e poi confermato dall'analisi della documentazione pubblicata fino ad oggi.
+La quinta sezione, la pertinenza del progetto, è la chiave di volta della contestazione, esamina i motivi principali che, secondo il nostro umile parere, **sono disattesi le prescrizioni contenute nei quadri normativi precedentemente dettagliati**, normalmente invalidando qualsiasi dichiarazione resa quanto al loro rispetto. In primis,  **la diminuzione della consistenza vegetale**, la scintilla scatenante per la quale il comitato si è inizialmente formato! Sorto inizialmente come lieve sospetto si è poi confermato con l'analisi della documentazione pubblicata fino ad oggi come ogni lettore potrà accertarsene indipendentemente. 
 
 La sesta sezione propone delle varianti, perché criticare l'operato di altri è un esercizio semplice al quale alcuni si dilettano per fare parlare di se, o invogliati solo per spirito di contradizione, il comitato vuole andare oltre e tentare di offrire delle soluzioni validi e attuabili, o quanto meno contribuire nella prospettiva di interventi futuri.
 
-Il settimo punto è l'analisi dei costi affrontati, è stato condotto nello spirito di quantificare le modifiche proposte e tenere sotto controllo la loro fattibilità cercando di non sforare con soluzioni troppo fantasiose che sarebbero rimaste insoddisfatte in partenza.
+Il settimo punto tratta di un analisi sommaria dei costi affrontati, è stato condotto principalmente con lo spirito di quantificare le modifiche proposte e tenere sotto controllo la loro fattibilità cercando di non sforare con soluzioni troppo fantasiose che sarebbero rimaste insoddisfatte in partenza perché non  finanziariamente attuabili.
 
 Tutte queste pagine sono quindi facilmente accessibili dal menu a sinistra sui desktop, sul popup a scomparsa sempre in alto a sinistra sui dispositivi mobili.
 
-Si spera che questi sforzi siano apprezzati per quelli che sono un tentativo di dialogo tra amministrazione e cittadinanza, in cui il comitato è solo un anello di congiunzione.
+Si spera che questi sforzi siano apprezzati per quelli che sono: un tentativo di dialogo tra amministrazione e cittadinanza, in cui il comitato è solo un anello di congiunzione.
 
 [comment]: # (**IL PIANO NAZIONALE DI RIPRESA E RESILIENZA.**)
 [comment]: # (**PNRR & LA TUTELLA DEI BENI CULTURALI E DEL PAESAGGIO.**)
