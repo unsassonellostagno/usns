@@ -11,7 +11,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: index.qmd
+      - href: villa_pages/La Villa Comunale di Siderno.qmd
         text: "La Villa"
       - href: Osservatorio del Verde Pubblico.qmd
         text: "L'Osservatorio"

@@ -23,14 +23,14 @@ I primi tre punti concernano la descrizione del quadro normativo, tra l'altro ri
 
 Le due sezioni seguente operano una forma di diagnostica storica dei luoghi condotta con la raccolta e l'analisi d'immagini recuperate da fonti sparse, alcun facilmente identificabili, per cercare di ritracciare l'evoluzione storica del luogo e vedere se può contribuire anche in parte a delineare validi indirizzi.
 
-- La villa Comunale: Genius Loci
-- Un paese al verde ?
+- [La villa Comunale: Genius Loci](gloci.qmd)
+- [Un paese al verde ?](areeverdi.qmd)
 
-La quinta sezione, la pertinenza del progetto, è la chiave di volta della contestazione, esamina i motivi principali che, secondo il nostro umile parere, **sono disattesi le prescrizioni contenute nei quadri normativi precedentemente dettagliati**, normalmente invalidando qualsiasi dichiarazione resa quanto al loro rispetto. In primis,  **la diminuzione della consistenza vegetale**, la scintilla scatenante per la quale il comitato si è inizialmente formato! Sorto inizialmente come lieve sospetto si è poi confermato con l'analisi della documentazione pubblicata fino ad oggi come ogni lettore potrà accertarsene indipendentemente. 
+La quinta sezione, [la pertinenza del progetto](pertinenza.qmd), è la chiave di volta della contestazione, esamina i motivi principali che, secondo il nostro umile parere, **sono disattesi le prescrizioni contenute nei quadri normativi precedentemente dettagliati**, normalmente invalidando qualsiasi dichiarazione resa quanto al loro rispetto. In primis,  **la diminuzione della consistenza vegetale**, la scintilla scatenante per la quale il comitato si è inizialmente formato! Sorto inizialmente come lieve sospetto si è poi confermato con l'analisi della documentazione pubblicata fino ad oggi come ogni lettore potrà accertarsene indipendentemente. 
 
-La sesta sezione propone delle varianti, perché criticare l'operato di altri è un esercizio semplice al quale alcuni si dilettano per fare parlare di se, o invogliati solo per spirito di contradizione, il comitato vuole andare oltre e tentare di offrire delle soluzioni validi e attuabili, o quanto meno contribuire nella prospettiva di interventi futuri.
+La sesta sezione propone delle [varianti](varianti.qmd), perché criticare l'operato di altri è un esercizio semplice al quale alcuni si dilettano per fare parlare di se, o invogliati solo per spirito di contradizione, il comitato vuole andare oltre e tentare di offrire delle soluzioni validi e attuabili, o quanto meno contribuire nella prospettiva di interventi futuri.
 
-Il settimo punto tratta di un analisi sommaria dei costi affrontati, è stato condotto principalmente con lo spirito di quantificare le modifiche proposte e tenere sotto controllo la loro fattibilità cercando di non sforare con soluzioni troppo fantasiose che sarebbero rimaste insoddisfatte in partenza perché non  finanziariamente attuabili.
+Il settimo punto tratta di un [analisi sommaria dei costi](spese.qmd) affrontati, è stato condotto principalmente con lo spirito di quantificare le modifiche proposte e tenere sotto controllo la loro fattibilità cercando di non sforare con soluzioni troppo fantasiose che sarebbero rimaste insoddisfatte in partenza perché non  finanziariamente attuabili.
 
 Tutte queste pagine sono quindi facilmente accessibili dal menu a sinistra sui desktop, sul popup a scomparsa sempre in alto a sinistra sui dispositivi mobili.
 
