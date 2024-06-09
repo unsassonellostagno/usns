@@ -37,6 +37,7 @@ website:
       - section: "Approfondimenti"
         contents:
         - href: villa_pages/damiani.qmd
+        - href: villa_pages/pnrrbf.qmd
       - section: "Attività"
         contents:
         - href: villa_pages/incontri.qmd
