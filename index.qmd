@@ -3,7 +3,7 @@ title: ""
 resources:
     - .nojekyll
 ---
-![](assets/img/logo_USNS.jpeg){height=350; fig-align="left"}
+![](assets/img/logo_USNS.jpeg){fig-align="center" height=350}
 
 
 
