@@ -9,5 +9,8 @@
         "latex",
         "plaintext",
         "quarto"
+    ],
+    "cSpell.enableFiletypes": [
+        "quarto"
     ]
 }
