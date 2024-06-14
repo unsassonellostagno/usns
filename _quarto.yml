@@ -35,17 +35,21 @@ website:
         - href: villa_pages/varianti.qmd
         - href: villa_pages/spese.qmd
         - href: villa_pages/analisi_costi.qmd
+        - href: villa_pages/cantiere.qmd
 
       - section: "Approfondimenti"
         contents:
         - href: villa_pages/damiani.qmd
         - href: villa_pages/pnrrbf.qmd
+
       - section: "Attività"
         contents:
         - href: villa_pages/incontri.qmd
+
       - section: "Rassegna Stampa"
         contents:
         - href: villa_pages/rastamp.qmd
+        
       - section: "Risorse Esterne"
         contents:
         - href: villa_pages/risest.qmd        
