@@ -10,17 +10,37 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - href: villa_pages/La Villa Comunale di Siderno.qmd
         text: "La Villa"
+      - href: 5g/5g.qmd
+        text: "Il 5G"
       - href: Osservatorio del Verde Pubblico.qmd
         text: "L'Osservatorio"
       - href: posts.qmd
-        text: Blog
+        text: "Blog"
       - href: about.qmd
-        text: About
+        text: "About"
 
   sidebar:
+  - title: "La Villa"
+    style: "docked"
+    contents:
+      - section: "La Villa Comunale"
+        contents:
+        - href: villa_pages/La Villa Comunale di Siderno.qmd
+        - href: villa_pages/pnrr.qmd
+        - href: villa_pages/pnrrbenicp.qmd
+        - href: villa_pages/pnrr_verde.qmd
+        - href: villa_pages/gloci.qmd
+        - href: villa_pages/areeverdi.qmd
+        - href: villa_pages/pertinenza.qmd
+        - href: villa_pages/varianti.qmd
+        - href: villa_pages/spese.qmd
+        - href: villa_pages/analisi_costi.qmd
+        - href: villa_pages/cantiere.qmd
+        
+  - title: "La Villa"
     style: "docked"
     contents:
       - section: "La Villa Comunale"
@@ -52,7 +72,24 @@ website:
         
       - section: "Risorse Esterne"
         contents:
-        - href: villa_pages/risest.qmd        
+        - href: villa_pages/risest.qmd   
+
+  - title: "Il 5G"
+    style: "docked"
+    contents:
+      - section: "Il 5G"
+        contents:
+        - href: 5g/5g.qmd    
+        - href: 5g/azioni.qmd
+
+  - title: "Home"
+    style: "docked"
+    contents:
+      - index.qmd
+      - section: "Temi abbordati"
+        contents:
+        - href: villa_pages/La Villa Comunale di Siderno.qmd
+        - href: 5g/5g.qmd
 format:
   html:
     theme: cosmo
