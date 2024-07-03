@@ -39,24 +39,7 @@ website:
         - href: villa_pages/spese.qmd
         - href: villa_pages/analisi_costi.qmd
         - href: villa_pages/cantiere.qmd
-        
-  - title: "La Villa"
-    style: "docked"
-    contents:
-      - section: "La Villa Comunale"
-        contents:
-        - href: villa_pages/La Villa Comunale di Siderno.qmd
-        - href: villa_pages/pnrr.qmd
-        - href: villa_pages/pnrrbenicp.qmd
-        - href: villa_pages/pnrr_verde.qmd
-        - href: villa_pages/gloci.qmd
-        - href: villa_pages/areeverdi.qmd
-        - href: villa_pages/pertinenza.qmd
-        - href: villa_pages/varianti.qmd
-        - href: villa_pages/spese.qmd
-        - href: villa_pages/analisi_costi.qmd
-        - href: villa_pages/cantiere.qmd
-
+ 
       - section: "Approfondimenti"
         contents:
         - href: villa_pages/damiani.qmd
