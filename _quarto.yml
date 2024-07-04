@@ -39,6 +39,7 @@ website:
         - href: villa_pages/spese.qmd
         - href: villa_pages/analisi_costi.qmd
         - href: villa_pages/cantiere.qmd
+        - href: villa_pages/inc_02_chia.qmd
  
       - section: "Approfondimenti"
         contents:

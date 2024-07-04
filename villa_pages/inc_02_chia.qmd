@@ -1,12 +1,13 @@
 ---
-title: "Il Secondo incontro con l'amministrazione"
+title: "Conclusioni dopo l'ultimo incontro con la P.A."
 ---
 A seguito dell'incontro avvenuto il 09 Aprile 2024 è stata comunicata al Comitato la tavola dettagliata delle superfici per tipologia relativa al propgettoe della Villa Comunale.
 
 Il documento in formato pdf è scaricabile [qui](/assets/pdf/TAV%20PROG%20ESEC%201_.pdf)
 
 La riproponiamo qui di seguito come imagine di più semplice consultazione e ne facciamo subito l'analisi;
-![](/assets/img/villa/TAV_01.jpg)
+
+![Fig.01](/assets/img/villa/TAV_01.jpg)
 
 Intanto, il calcolo da dove emerge la diminuzione è dettagliato nel riquadro centrale ed è circostanziato solamente all'area recintata della villa Comunale prima dell' inizio dei lavori.
 
@@ -21,15 +22,16 @@ In quale modo questi 1.395 mq di pavimentazione drenante possono contribuire all
 Comunque per porre **un punto finale** a questa discussione dispersiva sono state estratte le planimetrie inserite nella tavola precedente, messe in scala e da queste sono state contabilizzate le diverse aree.
 
 Nella rappresentazione seguente:
-![](/assets/img/villa/TAV_02.png)
+
+![Fig.02](/assets/img/villa/TAV_02.png)
 
 sono state contabilizzate le aree verdi indicate sul rilievo dello stato di fatto, dal conteggio sono state escluse le aree cementate corrispondente alle sedute a semi cerchio costruite anni addietro e alla recinzione lato mare  per un totale di circa 177 m². Esclusi anche la superficie del vialetto, l'area della vasca, l'area del fabbricato che ospitava i bagni pubblici, la fontanella, ... 
 
 Totalizziamo una **superficie erbacea di partenza** pari a 4.083 m² al quale leviamo anche i 83 m² per i cordoli o altri manufatti eventualmente non evidenziati ed otteniamo così un numero tondo **di 4.000 m²**.
 
-In quest'altra planimetria, sono individuate le superfici delle varie aree rilevate dalla Pubblica Amministrazione ad opere compiute:
+In quest'altra planimetria, sono individuate le superfici delle varie aree indicate sulla tavola aggiornata ad opere compiute:
 
-![](/assets/img/villa/TAV_03.png)
+![Fig.03](/assets/img/villa/TAV_03.png)
 
 identifichiamo:
 
@@ -42,18 +44,30 @@ alla fine totalizziamo 3.243 m² di verde al termine dei lavori circoscritti all
 
 **Siamo quindi passati da 4.000 a 3.240 m² per il verde urbano,questo risultato puo essere considerato un bilancio positivo ?**
 
-Vogliamo aggiungere tutte le altre aree verdi indicate in prossimita del secondo anfiteatro lato Locri per un valore di 732.32 m²:
+Contabilizziamo adesso anche le altre aree verdi ricomprese tra la recinzione laterale sud della Villa Comunale ed i confini della capitaneria militare e del Lido. Per avere una sembianza di coerenza con i valori precedenti è stata ridimensionata una foto satellitare dell'area in questione sul perimetro corrispondente definito nella Fig.02;
+
+![Fig.04](/assets/img/villa/TAV_04-sovrap.png)
+
+
+Da lì sono state ricalcate e misurate le aree vegetali. Sono state comunque sottratte le aree che accolgono le strutture temporanee per "onesta intellettuale". 
+
+
+![Fig.04](/assets/img/villa/TAV_05-contverd.png)
+
+
+Sommando le aree ricavate ci aggiriamo intorno ai 1.200,00 m².
+
+Di progetto al termine dei lavori sono previsti 732,32 m²
+
 il bilancio rimane purtroppo sempre matematicamente negativo:
 
-4000 > 3975 !
+da **5.200,00** (4.000,00 + 1.200,00) a **3.945,00** (3.243,00 + 732,00)
 
-Vero per soli 25 m²! Ma bastano però per confermare che la superficie vegetale non risulta incrementata come si era sostenuto al secondo incontro con l'amministrazione.
+**Abbiamo una riduzione effettiva circa del 25% di aree verde urbano**, molto meno inferiore al 42 % prospettato nell'evento del mese di marzo per via della documentazione fornita meno dettagliata, ma pur sempre una riduzione notevole.
 
-Inutile a questo punto precisare che in questo "bilancio  del verde" non sono state aggiunte ai 4000 m² di partenza le aree verdi gia esistenti prima dei lavori, quelle ricomprese, appunto nella zona tra la capitaneria e la villa Comunale originaria (circa 980 m² previsti dal piano). Ovviamente neanche è stata conteggiata l'area dedicata al parcheggio vero e proprio dato la sua ovvia destinazione d'uso.
+Si rimarca inoltre che **"Linee guida per la gestione del verde urbano e prime indicazioni per una pianificazione sostenibile"** prescrivono di massimizzare l'accorpamento per evitare frammentazioni e collocazione residuali del verde pubblico (p.19, secondo paragrafo), da evitare quindi le aiuole isolate così come proposte.
 
-Si rimarca che **"Linee guida per la gestione del verde urbano e prime indicazioni per una pianificazione sostenibile"** prescrivono di massimizzare l'accorpamento per evitare frammentazioni e collocazione residuali del verde pubblico. (p.19, secondo paragrafo)
-
-In conclusione, dopo questo ulteriore chiarimento fornito dall'amministrazione l'intervento ha decisamente contribuito alla riduzione delle verde pubblico nei pressi della Villa Comunale. Il comitato ritiene che per questo semplice fatto non si aderisce alle prescrizioni sancite dal DNSH. Affermare che invece sono state rispettate le suddette norme perché sono state ridotte le superficie cementate risulta puramente strumentale.
+In conclusione, dopo questo ulteriore chiarimento fornito dall'amministrazione l'intervento ha decisamente contribuito alla riduzione delle verde pubblico nei pressi della Villa Comunale. **Il comitato ritiene che per questo semplice fatto non si aderisce alle prescrizioni sancite dal DNSH**. Affermare che invece sono state rispettate le suddette norme perché sono state ridotte le superficie cementate risulta puramente strumentale.**Si dovrebbe riconoscere la problematica e porvi rimedio.**
 
 Al comitato non interessa bloccare i lavori e avere un ennesima opera incompiuta aggiuntiva nel panorama Sidernese. 
 Al comitato non interessa prevalere sull'amministrazione o soddisfare qualsiasi tipo d'orgoglio o d'egocentrismo in occasione dei vari confronti di competenza .
