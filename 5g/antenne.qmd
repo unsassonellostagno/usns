@@ -1,0 +1,25 @@
+---
+title: "Elenco delle antenne radiotelefoniche a Siderno"
+date: 02 07 2024
+date-modified: last-modified
+---
+
+Nel nostro Comune, sono ben visibili installazioni consistenti in antenne e/o ripetitori utili per la telefonia mobile 3G e 4G.
+Pertanto, si riportano di seguito alcune porzioni di territorio dove sono situate le antenne per quanto in oggetto:
+
+1. Via Jonio n. 203;
+2. Corso Garibaldi n. 195;
+3. Via Gramsci n. 69;
+4. Via Enrico Fermi n. 75;
+5. Centro Commerciale Le GRU s.s. 106 - antenna 5G?;
+6. Lungomare – albergo in corso di costruzione;
+7. Via Trento – ingresso condominio al n. 14/16
+8. Hotel Stella dello Jonio s.s. 106;
+9. Siderno Superiore contrada Lucis.
+10. Antenna non verificata Via Cesare Battisti/Via Magenta da individuare l’ingresso su strada.
+
+I gestori mobili sono: Windtre, Iliad, Vodafone e TIM.
+
+Dalla descrizione appena effettuata, queste antenne e/o ripetitori, sono concentrate in prossimità del centro urbano e la misurazione tramite gli strumenti adeguati, potrà stabilire se le radiazioni elettromagnetiche siano quelle rientranti nella normale tollerabilità.
+
+Sul sito consultabile a questo [link](https://www.cellmapper.net/map?MCC=222&MNC=88&type=LTE&latitude=38.26825163237197&longitude=16.297291920340857&zoom=16.502457863592774&showTowers=true&showIcons=true&showTowerLabels=true&clusterEnabled=true&tilesEnabled=true&showOrphans=false&showNoFrequencyOnly=false&showFrequencyOnly=false&showBandwidthOnly=false&DateFilterType=Last&showHex=false&showVerifiedOnly=false&showUnverifiedOnly=false&showLTECAOnly=false&showENDCOnly=false&showBand=0&showSectorColours=true&mapType=roadmap&darkMode=false&imperialUnits=false) sono disponibili informazione piu dettglaite su ogni antenna.

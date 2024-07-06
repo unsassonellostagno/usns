@@ -1,7 +1,9 @@
 ---
 title: "il 5G"
+date: 30 05 2024
+date-modified: last-modified
 ---
-E' lecito dare un piccolo riassunto su tutti i vantaggi e diffetti riconosciuti a questa tecnologia senza entrare troppo in dettagli tecnologici.
+E' lecito dare un piccolo riassunto su tutti i vantaggi e difetti riconosciuti a questa tecnologia senza entrare troppo in dettagli tecnologici.
 
 
 **Pro della tecnologia 5G:**

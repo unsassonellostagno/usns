@@ -63,8 +63,8 @@ website:
     contents:
       - section: "Il 5G"
         contents:
-        - href: 5g/5g.qmd    
         - href: 5g/azioni.qmd
+        - href: 5g/5g.qmd    
 
   - title: "Home"
     style: "docked"

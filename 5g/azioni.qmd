@@ -1,8 +1,50 @@
 ---
-title: "L'attivismo del Comitato"
+title: "NO al 5G sotto casa"
+date: 02 07 2024
+date-modified: last-modified
 ---
 
-- xx maggio 2024 - Raduno via Carera
-- yy giugno 2024 - petizione
+Il comitato “NO al 5G sotto casa” si è costituito in maniera spontanea a cagione di una erigenda torre/traliccio per telecomunicazione mobile 5G, localizzata in terreno privato in Via Carrera, temendo di subire gli effetti negativi sulla salute causate dalle onde elettromagnetiche il comitato richiama l’attenzione della pubblica amministrazione del Comune di Siderno e l’invita alla massima cautela.
 
-etc
+## Un primo incontro
+
+**Il 27 maggio 2024**, presso la Sala Consiliare, si è tenuto un incontro tra i cittadini residenti e l’amministrazione Comunale, con la presenza del Sindaco, assessori e tecnici i quali spiegavano l’iter autorizzativo ottenuto per la localizzazione dell’impianto, in Via Carrera, da parte della INWIT S.p.A,   tramite l’Ufficio SUAP, Ufficio Urbanistica, Settori LL PP – Ufficio Ambiente e relativa Conferenza dei Servizi.
+Il sindaco, Dott.ssa Maria Teresa Fragomeni, spiegava che i lavori di allocazione della torre e relativa antenna 5G, sono stati eseguiti sulla base del **Decreto Legge n. 76 del 16 luglio 2020**, relativo a “Misure urgenti per la semplificazione e l’innovazione digitale”, il quale statuisce che **le amministrazioni comunali non possano vietare l’installazione di reti 5G sul proprio Comune.** 
+
+Pertanto, in virtù di codesta normativa, i sindaci non potranno introdurre limitazioni sul proprio territorio di stazioni radio base per reti di comunicazione elettroniche di qualunque tipologia e non potranno fissare limiti di esposizione a campi elettrici, magnetici ed elettromagnetici diversi, rispetto a quelli stabiliti dallo Stato.
+
+Concludeva, nell’affermare che **qualsiasi ordinanza sospendesse i lavori per la compromissione della salute della cittadinanza, si sarebbe rilevata improduttiva di effetti, in quanto TAR e Consiglio di Stato avevano già rigettato tali provvedimenti**, considerando che queste opere ritenute indifferibili ed urgenti e quindi di pubblica utilità, sono conformi ai parametri stabiliti dallo Stato. 
+
+D’altra parte i cittadini, in special modo i residenti, avendo visto crescere in maniera esponenziale quanto realizzato, senza aver avuto contezza di tale manufatto, preoccupati per la compromissione della salute da parte delle ulteriori future radiazioni elettromagnetiche chiedevano che, **l’erigenda torre venisse deviata verso altro sito**.
+
+**Il Sindaco, prendeva in considerazione la delocalizzazione dell’antenna 5G** concludendo che a breve avrebbe programmato una riunione con il gestore (Vodafone S.p.A.) e la società realizzatrice l’impianto (INWIT S.p.A.) ed alcuni membri del Comitato.
+
+## Il secondo incontro
+
+**il 4 giugno 2024**, erano presenti il Sindaco, il Dirigente Area 3, il Responsabile SUAP, i rappresentanti di Vodafone S.p.A. ed INWIT S.p.A. ed i componenti del Comitato “NO al 5G sotto casa” ora Comitato. 
+
+I rappresentanti Vodafone S.p.A. ed INWIT S.p.A., dichiaravano il ritardo con il quale l’Italia aveva recepito la Direttiva Europea sulla digitalizzazione e quindi si doveva intervenire per una copertura su base nazionale, con interventi sempre più penetranti nel territorio per **i grandi vantaggi che nel prossimo futuro il 5G avrebbe prodotto, con rischi per le salute quasi nulli**, e che, normativamente, la realizzazione dell’antenna 5G, localizzata in Via Carrera, considerata  un’opera di pubblica utilità, era stata concessa dal Comune di Siderno, seguendo il normale iter autorizzativo.
+
+I rappresentanti del Comitato sottolineavano la mancata pubblicazione nell’Albo Pretorio per l’erigenda costruzione, essenziale affinché i cittadini ne avessero contezza per poter esprimere le proprie osservazioni, oltre **la preoccupazione per la salute, in quanto ancora disconosciuti gli effetti delle radiazioni elettromagnetiche sull’uomo e la  causazione di patologie le quali su base scientifica non vengono smentite né convalidate**.
+
+Durante l’incontro i membri del Comitato hanno fatto visualizzare il libro edito dalla ERPS: Servizio Ricerca del **Parlamento Europeo dal titolo “Impatto del 5G sulla salute” – Giugno 2021**, pagine 212, nel quale veniva condotto uno studio particolareggiato inerente le radiazioni elettromagnetiche, l’ultima pagina così concludeva “ Gli ultimi decenni hanno visto uno sviluppo senza precedenti delle tecnologie di comunicazione wireless (telefonia mobile WI – FI). L’imminente introduzione della tecnologia 5G in tutta l’UE dovrebbe offrire nuove opportunità per i cittadini e le imprese, attraverso una navigazione internet, streaming e download più veloci, nonché una migliore connettività. **Tuttavia il 5G, insieme al 3G e 4G, con cui opererà in parallelo per diversi anni, può anche rappresentare una minaccia per la salute umana**. Questo rapporto STOA mira a fare il punto sulla nostra attuale comprensione degli effetti del 5G sulla salute”.
+
+**Il Sindaco dimostrava la propria disponibilità per proporre all’azienda realizzatrice dell’opera, un altro immobile pubblico dove localizzare il manufatto**, dandone contezza al Comitato per l’accettazione o meno da parte della Società realizzatrice della torre/traliccio.
+
+Ad oggi, 24 giugno 2024, i lavori realizzati in Via Carrera, per la base cementizia che serve da superficie per l’innalzamento del traliccio ed il posizionamento dell’antenna 5G, si possono considerare conclusi, si rimane in attesa di conoscere se la INWIT S.p.A. abbia accettato il trasferimento presso altro sito individuato dal Comune.
+
+
+## Terzo incontro, Consiglio Comunale Aperto.
+
+Il 2 luglio 2024, si è colto l'occasione di presentare la petizione che ha raccolta 1.246 firme per chiedere un intervento da parte dell’Assessore all’Ambiente di concerto con l’ARPACAL, per un controllo dei livelli di campo elettromagnetico generato dai ripetitori o antenne [elencate in questa lista](/5g/antenne.qmd), poiché tale misurazione rientra nella verificabilità delle radiazioni elettromagnetiche emesse dalle stesse sorgenti poste in prossimità delle abitazioni dei risedenti.
+
+I residenti si dichiarano favorevoli ad accogliere nelle proprie abitazioni, o nelle pertinenze esterne alle stesse, i tecnici incaricati del controllo per il posizionamento della strumentazione di misura, onde rassicurare la cittadinanza per la non pericolosità delle radiazioni elettromagnetiche, emesse secondo normativa.
+
+Codesto monitoraggio è essenziale ed è il punto di partenza per conoscere quanta incidenza elettromagnetica è presente nel nostro Comune, il condurre tutto verso  parametri normativi e successivamente autorizzare altri impianti, tenendo anche conto  della legge regionale n. 44 del 3 ottobre 2023, la quale si ispira al “**Principio di Precauzione** per la realizzazione degli impianti e l’adeguamento di quelli preesistenti, che avvenga in modo tale da produrre i valori di campo elettromagnetico minori possibili, **al fine di minimizzare l’esposizione della popolazione**”.   
+
+Ultima considerazione per l’eventuale posizionamento della torre 5G in località Carrera, è posta nelle **vicinanze di immobili con famiglie con prole e tra i residenti alcuni sono portatori di pacemaker**.
+
+La parziale realizzazione dell’opera, non ancora in funzione, ha **generato tra alcuni dei residenti stati di panico e depressivi**.  
+
+Il Comitato “NO al 5G sotto casa” è promotore di questa iniziativa, allegando le firme dei cittadini per la petizione in oggetto, ribadendo il **netto rifiuto alla realizzazione dall’impianto 5G di Via Carrera**, se non prima della pubblicazione dei dati rilevanti l’incidenza delle radiazioni elettromagnetiche presenti nel comprensorio comunale.
+
