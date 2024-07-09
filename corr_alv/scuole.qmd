@@ -22,7 +22,15 @@ Nel mentre nasceva questo comitato per cercare di salvaguardare quel poco di ver
 
 Inizio Luglio 2024, pervengono al comitato questi video ripresi sul cantiere allestito presso l'ex Corrado Alvaro. Le immagini sono raccapriccianti:
 
-{{< video /assets/vids/coralvideo_bg.mp4 >}}
+{{< video /assets/vids/Coralv_01.mp4 >}}
+
+{{< video /assets/vids/Coralv_02.mp4 >}}
+
+{{< video /assets/vids/Coralv_03.mp4 >}}
+
+{{< video /assets/vids/Coralv_04.mp4 >}}
+
+{{< video /assets/vids/Coralv_05.mp4 >}}
 
 
  Di nuovo un pesante sterminio di alberi innocui. 
