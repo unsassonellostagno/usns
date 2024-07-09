@@ -15,6 +15,8 @@ website:
         text: "La Villa"
       - href: 5g/5g.qmd
         text: "Il 5G"
+      - href: corr_alv/scuole.qmd
+        text: "La Corrado Alvaro"
       - href: Osservatorio del Verde Pubblico.qmd
         text: "L'Osservatorio"
       - href: posts.qmd
