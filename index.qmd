@@ -8,8 +8,7 @@ resources:
 
 # **Benvenuti a "Un Sasso nello Stagno"!**
 
-Siamo un comitato dedicato alla tutela delle questioni ambientali, con un focus particolare sul verde pubblico. Vorremmo coinvolgere tutta la cittadinanza e ravvicinarla a quel patrimonio considerato un bene acquisito e perenno qualsiasi sfregio gli viene inflitto.  Il n
-ostro nome riflette il nostro approccio: anche la più piccola azione può avere un impatto significativo, proprio come il lancio di un sasso in uno stagno crea onde che si propagano.
+Siamo un comitato dedicato alla tutela delle questioni ambientali, con un focus particolare sul verde pubblico. Vorremmo coinvolgere tutta la cittadinanza e ravvicinarla a quel patrimonio considerato un nostro bene, anche se acquisito ma  perenne, nonostante  tutti i " tagli " inflittigli .  Il nostro appellativo riflette il nostro approccio: anche la più piccola azione può avere un impatto significativo, proprio come il lancio di un sasso in uno stagno crea onde che si propagano
 
 Ci impegniamo a lavorare in linea con gli Obiettivi di Sviluppo Sostenibile (SDG) delle Nazioni Unite, che ci forniscono una guida chiara per perseguire un futuro più sostenibile per tutti. Siamo particolarmente dedicati a contribuire al raggiungimento di alcuni dei 17 obiettivi a noi particolarmente cari, siamo convinti che il successo di questa impresa debba risiedere nella sinergia tra governance e cittadinanza.
 
@@ -24,7 +23,6 @@ Si spera che nel futuro più prossimo, col vostro aiuto e sostegno, potremmo int
 - Ricerca e innovazione collaborare con esperti e istituzioni accademiche per sviluppare soluzioni innovative e sostenibili per affrontare le sfide ambientali di domani.
 
 Unisciti a noi nel nostro viaggio per fare la differenza, un sasso alla volta, nello stagno delle questioni ambientali. Insieme, possiamo creare un futuro più verde e più sostenibile per tutti.
-
 
 
 
