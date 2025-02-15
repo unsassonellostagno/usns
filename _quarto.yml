@@ -19,6 +19,8 @@ website:
         text: "La Corrado Alvaro"
       - href: Osservatorio del Verde Pubblico.qmd
         text: "L'Osservatorio"
+      - href: ambiente/ambiente.qmd
+        text: "Blog"
       - href: posts.qmd
         text: "Blog"
       - href: about.qmd
@@ -59,6 +61,14 @@ website:
       - section: "Risorse Esterne"
         contents:
         - href: villa_pages/risest.qmd   
+
+  - title: "L'ambiente"
+    style: "docked"
+    contents:
+      - section: "L'ambiente"
+        contents:
+        - href: ambiente/ambiente.qmd
+        - href: ambiente/ris_esterne.qmd   
 
   - title: "Il 5G"
     style: "docked"
