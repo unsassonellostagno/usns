@@ -213,16 +213,22 @@
     ]
   },
   {
-    "objectID": "ambiente/ambiente.html",
-    "href": "ambiente/ambiente.html",
-    "title": "L’ambiente",
+    "objectID": "ambiente/ris_est.html",
+    "href": "ambiente/ris_est.html",
+    "title": "Rissorse Esterne",
     "section": "",
-    "text": "Sono qui raggruppati notizie dull’ambiente in generale, piu per dare la possibilità ai curiosi di trovare indipendentemente materiale informativo per che si possa costruire un opinione senza essere influenzati",
+    "text": "Sono qui raggruppati siti interessanti\n\nThe Shift Project\nLo Shift Project, è un progetto portato avanti esclusivamente da volontari. Tutti sono benvenuti perché l’aiuto e il contributo di ognuno, quant umile possa sembrare, puo fare la differenza al ungo termine.\nIl sito del Shift Project\nL’obiettivo è quello di rendere consapevole le comunità che le nostre civiltà entrano in fase di costrizione legate al libero sfruttamento, senza reale pianificazione, delle risorse poste a nostra disposizione Immaginate di essere ora su un isola con i vostri compagni di avventura e di dover garantire la sopravvivenza del gruppo sul longo termine evitando qualsiasi forma di lite e contesa sulla disponibilità delle risorse indispensabili per soddisfare i bisogni primari Questo qualsiasi avversità la sorte vorrà infliggere agli abitanti dell’isola. Entra in conto il concetto di RESILIZENZA e di come rafforzarla\n\ncapire\nAgire\nOrganizzare\n\nLa resilienza del territorio\nUn rapporto finale dopo le valutazioni territoriali: Il rapporto\nUna proposta d’iniziativa per Il futuro dei territori\nil Kit: il kit di coinvolgimento\nla piattaforma: Diagnostica della tua città\ni dati energetici e climatici\nUn caso da studiare, l’Italia e l’Energia\nL’impatto del 5G sull’ambiente\n\n\nAltri siti:\nIl Gruppo Internazionale d’Esperti sul Cambio Climatico\nLa piattaforma internazionale della biodiversità e degli ecosistemi\nIl superamento della biodisponibilità\nLe soglie da non superare\nRural21",
     "crumbs": [
-      "Blog",
       "L'ambiente",
-      "L'ambiente"
+      "Rissorse Esterne"
     ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "Osservatorio del Verde Pubblico.html",
@@ -232,11 +238,15 @@
     "text": "Questa pagina è dedicata alle segnalazioni rese dai concittadini che portano sugli interventi compiuti che migliorano o deteriorano il patrimonio verde urbano\n\nIl crepuscolo di una albero che non facceva altro che condividere la sua ombra\nNel montaggio proposto qui sotto è stato proposto il confronto tra il prima e il dopo l’intervento umano\n\n\nVideo\nFoto satellitare dell’area"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "ambiente/ambiente.html",
+    "href": "ambiente/ambiente.html",
+    "title": "L’ambiente",
     "section": "",
-    "text": "About this site"
+    "text": "Sono qui raggruppati notizie dull’ambiente in generale, piu per dare la possibilità ai curiosi di trovare indipendentemente materiale informativo per che si possa costruire un opinione senza essere influenzati",
+    "crumbs": [
+      "L'ambiente",
+      "L'ambiente"
+    ]
   },
   {
     "objectID": "posts.html",
