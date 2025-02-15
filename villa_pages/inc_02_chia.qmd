@@ -25,7 +25,12 @@ Nella rappresentazione seguente:
 
 ![Fig.02](/assets/img/villa/TAV_02.png)
 
-sono state contabilizzate le aree verdi indicate sul rilievo dello stato di fatto, dal conteggio sono state escluse le aree cementate corrispondente alle sedute a semi cerchio costruite anni addietro e alla recinzione lato mare  per un totale di circa 177 m². Esclusi anche la superficie del vialetto, l'area della vasca, l'area del fabbricato che ospitava i bagni pubblici, la fontanella, ... 
+sono state contabilizzate le aree verdi indicate sul rilievo dello stato di fatto, dal conteggio sono state escluse le aree cementate corrispondente alle:
+
+- sedute a semi cerchio costruite anni addietro e 
+- recinzione lato mare  
+
+per un totale di circa 177 m². Esclusi anche la superficie del vialetto, l'area della vasca, l'area del fabbricato che ospitava i bagni pubblici, la fontanella, ... 
 
 Totalizziamo una **superficie erbacea di partenza** pari a 4.083 m² al quale leviamo anche i 83 m² per i cordoli o altri manufatti eventualmente non evidenziati ed otteniamo così un numero tondo **di 4.000 m²**.
 
