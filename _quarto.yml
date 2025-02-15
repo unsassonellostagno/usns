@@ -20,7 +20,7 @@ website:
       - href: Osservatorio del Verde Pubblico.qmd
         text: "L'Osservatorio"
       - href: ambiente/ambiente.qmd
-        text: "Blog"
+        text: "L'ambiente"
       - href: posts.qmd
         text: "Blog"
       - href: about.qmd
@@ -68,7 +68,7 @@ website:
       - section: "L'ambiente"
         contents:
         - href: ambiente/ambiente.qmd
-        - href: ambiente/ris_esterne.qmd   
+        - href: ambiente/ris_est.qmd   
 
   - title: "Il 5G"
     style: "docked"
