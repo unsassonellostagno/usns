@@ -213,18 +213,30 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "ambiente/ambiente.html",
+    "href": "ambiente/ambiente.html",
+    "title": "L’ambiente",
     "section": "",
-    "text": "About this site"
+    "text": "Sono qui raggruppati notizie dull’ambiente in generale, piu per dare la possibilità ai curiosi di trovare indipendentemente materiale informativo per che si possa costruire un opinione senza essere influenzati",
+    "crumbs": [
+      "Blog",
+      "L'ambiente",
+      "L'ambiente"
+    ]
   },
   {
     "objectID": "Osservatorio del Verde Pubblico.html",
     "href": "Osservatorio del Verde Pubblico.html",
     "title": "L’Osservatorio del Verde Pubblico",
     "section": "",
-    "text": "Questa pagina è dedicata alle segnalazioni rese dai concittadini che portano sugli interventi compiuti che migliorano o deteriorano il patrimonio verde urbano\n\n\nVideo\nFoto satellitare dell’area"
+    "text": "Questa pagina è dedicata alle segnalazioni rese dai concittadini che portano sugli interventi compiuti che migliorano o deteriorano il patrimonio verde urbano\n\nIl crepuscolo di una albero che non facceva altro che condividere la sua ombra\nNel montaggio proposto qui sotto è stato proposto il confronto tra il prima e il dopo l’intervento umano\n\n\nVideo\nFoto satellitare dell’area"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "posts.html",
