@@ -7,6 +7,8 @@ date-modified: last-modified
 
 Sono qui raggruppati siti interessanti
 
+
+<!-- 
 ### The Shift Project
 
 Lo Shift Project, è un progetto portato avanti esclusivamente da volontari.
@@ -43,7 +45,7 @@ la piattaforma:
 
 [L'impatto del 5G sull'ambiente](https://theshiftproject.org/article/impact-environnemental-du-numerique-5g-nouvelle-etude-du-shift/)
 
-
+-->
 
 
 
